@@ -9,5 +9,5 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH News TV" tvg-country="PH" tvg-language="" tvg-logo="" group-title="News",DZRH News TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DZRHNewsTelevision/live
+#EXTINF:-1 tvg-logo="https://img.favpng.com/21/9/23/untv-dwao-tv-logo-television-image-png-favpng-fNX3W3ddmCUYxKX1ttuMetp9p.jpg" group-title="Local",UNTV
+https://cdn.untvweb.com/live-stream/chunklist_b2592000.m3u8
